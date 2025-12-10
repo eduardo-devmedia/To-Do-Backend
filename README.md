@@ -1,3 +1,5 @@
+# Criando a tabela no banco de dados
+
 Para criar a tabela no Supabase, você pode acessar o *SQL Editor* (localizado no menu lateral do supabase) e utilizar o comando abaixo: 
 
 ```
@@ -8,7 +10,7 @@ CREATE TABLE todos (
   created_at TIMESTAMPTZ DEFAULT now()
 );
 ```
-Comando de execução do projeto: 
+# Comando para executar o projeto na sua máquina
 
 ```
 node index.js
