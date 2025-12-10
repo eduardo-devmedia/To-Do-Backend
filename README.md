@@ -8,3 +8,8 @@ CREATE TABLE todos (
   created_at TIMESTAMPTZ DEFAULT now()
 );
 ```
+Comando de execução do projeto: 
+
+```
+node index.js
+```
