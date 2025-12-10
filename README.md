@@ -1,5 +1,5 @@
 # Download do NodeJS
-https://nodejs.org/pt
+Baixe o NodeJS em: https://nodejs.org/pt
 # Comando para instalar todos os plugins listados em package.json
 ```
 npm install
